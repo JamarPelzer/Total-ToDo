@@ -1,6 +1,4 @@
 import tkinter as tk
-# from tkinter import *
-# from tkinter import font
 from tkinter import font, Entry, Button, Listbox
 
 
@@ -56,9 +54,5 @@ task_entry.place(x=15, y=150)
 task_font = font.Font(slant="italic", size=18, family="courier")
 task_list = Listbox(gui, bg="white", width=30, height=15, fg="black", font=task_font)
 task_list.place(x=300, y=150)
-
-
-
-
 
 gui.mainloop()
