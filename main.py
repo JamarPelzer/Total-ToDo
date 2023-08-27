@@ -26,7 +26,6 @@ gui.resizable(False, False)
 gui.configure(bg="light gray")
 
 # Create a label that shows the title of our app
-label_background = tk.PhotoImage(file="todo__app/TODO_banners.png")
 label_font = font.Font(slant="italic", size=30, family="courier")
 label_1 = tk.Label(gui, compound="center", text="THE TO-DO APP", font=label_font, bg="orange", height=2, width=100,
                    fg="black")
