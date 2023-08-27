@@ -3,6 +3,11 @@
 
 This repository contains a minimalistic ToDo application built using Python's Tkinter library. The app offers a user-friendly interface for managing tasks efficiently. With the ability to add and delete tasks, this app simplifies your task management process.
 
+## ScreenShot 
+<img width="650" alt="Screen Shot 2023-08-27 at 5 43 07 PM" src="https://github.com/JamarPelzer/Total-ToDo/assets/117375506/a613620a-986f-4b2c-800f-8983d4355a70">
+
+
+
 ### Features:
 
 - **Task Addition:** Enter task descriptions in the provided input field and click the "Add" button to append them to your task list.
@@ -33,4 +38,4 @@ This repository contains a minimalistic ToDo application built using Python's Tk
 
 Enhance your productivity with this straightforward ToDo app. Manage your tasks effortlessly and gain a clearer view of your daily goals. Feel free to tailor and extend the app to match your preferences.
 
-**Note:** Developed by [Your Name]. Feel free to provide feedback or contribute by submitting pull requests on GitHub.
+**Note:** Developed by Jamar Pelzer. Feel free to provide feedback or contribute by submitting pull requests on GitHub.
